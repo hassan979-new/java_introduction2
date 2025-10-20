@@ -47,15 +47,13 @@ It’s designed as an introductory project to reinforce understanding of:
 ## 🖥️ Example Execution
 
 ### Addition:
-
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/5e4c12b3-184a-4fa8-8b54-3e3e370dfd3d" />
 ### Multiplication:
-
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/49ac80f2-4602-4dd8-8bdb-8f3fa290cc19" />
 ### Moyenne:
-
-
+- <img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/9ed68cf5-4fdd-4129-8947-a318f9624fd0" />
 ### Maximum:
+-<img width="480" height="504" alt="image" src="https://github.com/user-attachments/assets/0624c6fa-5ff8-47d8-b90a-3dbc1f619552" />
 ## 💡 Concepts Practiced
 
 - switch and do-while for user interaction
